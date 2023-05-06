@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Response>
+	<Process code="{code}" category="{type}">
+		<File>{fileName}</File>
+	</Process>
+</Response>
